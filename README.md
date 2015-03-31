@@ -13,6 +13,10 @@ _____
       * Laravel
       * CakePHP
       * Slim
+    * CMS:
+     * Wordpress
+    * E-commerce:
+     * Magento
 
 * Front-End:
   * HTML 5
@@ -69,9 +73,9 @@ Nasci em Blumenau, aprendo muito rápido, sempre busco novas tecnologias, curto 
 
 ## Interesou? Entre em contato!
 
-Facebook: https://www.facebook.com/CarlosGartner
-Linkedin: https://www.linkedin.com/in/carlosgartner
-E-mail: contato@carlosgartner.com.br
-Celular: +55 47 33383584
+* Facebook: https://www.facebook.com/CarlosGartner
+* Linkedin: https://www.linkedin.com/in/carlosgartner
+* E-mail: contato@carlosgartner.com.br
+* Celular: +55 47 33383584
 
 
