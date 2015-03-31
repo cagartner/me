@@ -14,9 +14,9 @@ _____
       * CakePHP
       * Slim
     * CMS:
-     * Wordpress
+      * Wordpress
     * E-commerce:
-     * Magento
+      * Magento
 
 * Front-End:
   * HTML 5
