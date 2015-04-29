@@ -48,6 +48,12 @@ Aos poucos fui buscando novas tecnologias e utilizando Tabless nos projetos e te
 ## Principais Projetos
 _____
 
+* Blumenews: 
+
+Link: http://blumenews.com.br/
+
+Ricardo Latorre, o fundador do protal me procurou, estava insatisfeito com o site antigo e seu desenvolvedor anterior, foi feito algumas reuniões para criar o escopo do novo portal, com o escopo desenvolvido criei um layout clean, para deixar o projeto mais personalizado, foi desenvolvido em Laravel.
+
 * Cartem Imóveis: 
 
 Link: http://cartem.com.br/
