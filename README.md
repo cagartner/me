@@ -1,7 +1,7 @@
 # Carlos Augusto Gartner
 _____
 
-Full-stack Web Developer, com 4 anos de experiências em diversos tipos de projetos WEB. Atualmente estou trabalhando como Frontend Enginner na Trezo Soluções Web principalmente com lojas da plataforma Magento.
+Full-stack Web Developer, com 4 anos de experiências em diversos tipos de projetos WEB. Atualmente estou trabalhando como Frontend Engineer na Trezo Soluções Web principalmente com lojas da plataforma Magento.
 
 ## Jogo Rápido
 _____
@@ -45,7 +45,7 @@ _____
 _____
 
 Minha carreira como desenvolvedor começou em 2011 quando entrei na WE3 Online, lá comecei com PHP estruturado, trabalhei um pouco com ASP e de início utilizando tabelas na diagramação do HTML :P
-Aos poucos fui buscando novas tecnologias e utilizando Tabless nos projetos e tentando utilizar algum padrão de desenvolvimento no PHP. Trabalhei com diversos projetos e clientes nessa empresa, passando desde sites para pequenas empresas até intranets internacionais, desenvolvi e-commerces, hotsites e aplicativos para Facebook. Tive uma rápida passagem pela Bludata e após sair da Bludata trabalhei cerca de 8 meses como Freela e desde Maio de 2015 trabalho como Frontend Enginner Sênior na Trezo.
+Aos poucos fui buscando novas tecnologias e utilizando Tabless nos projetos e tentando utilizar algum padrão de desenvolvimento no PHP. Trabalhei com diversos projetos e clientes nessa empresa, passando desde sites para pequenas empresas até intranets internacionais, desenvolvi e-commerces, hotsites e aplicativos para Facebook. Tive uma rápida passagem pela Bludata e após sair da Bludata trabalhei cerca de 8 meses como Freela e desde Maio de 2015 trabalho como Frontend Engineer Sênior na Trezo.
 
 ## Principais Projetos
 _____
