@@ -50,6 +50,14 @@ Aos poucos fui buscando novas tecnologias e utilizando Tabless nos projetos e te
 ## Principais Projetos
 _____
 
+* Nova Loja Virtual Ana Tinelli: 
+
+Link: http://anatinelli.com.br/
+
+Cliente tinha uma loja em Magento que estava dando muitos problemas de manutenção pois ele tinha necessidades básicas que um Magento é muito grande e complexo para isso.
+Foi desenvolvido uma nova loja em Woocommerce com dois idiomas (Português e Inglês) e com conversão de moeda, forma de pagamento Paypal para o idioma Inglês.
+Foi desenvolvido com um template criado pela Zaaz Digital com responsividade para smartphones.
+
 * Blumenews: 
 
 Link: http://blumenews.com.br/
@@ -73,6 +81,7 @@ O sistema precisava de uma refatoração, desenvolvi do zero, totalmente adminis
 Link: http://calesita.com.br/
 
 Desenvolvimento do Frontend do novo site da Calesita, utilizei Less, HTML5 e Bootstrap para ficar mais fácil a mudança de layout ou stylos do site, facilitando qualquer mudança visual, ajudei com algumas partes do Backend, nele foi utilizado Zend Framework 2.
+
 
 ## Um pouco mais sobre o Carlos
 _____
