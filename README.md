@@ -74,7 +74,7 @@ Depois que sai da Bludata comecei a fazer Freelas e comecei a desenvolver um pro
 
 Link: http://basementpub.com.br/reservas/
 
-O sistema precisava de uma refatoração, desenvolvi do zero, totalmente administrável por administração, possui posicionamento de mesas, cadastros de mapas especiais, reservas de mesas e inativação de salão para uma data, com integração com pagamento por cartão utilizando a Cielo. Utilizado Javascrip/jQuery com PHP.
+O sistema precisava de uma refatoração, desenvolvi do zero, totalmente administrável pelo admin, possui posicionamento de mesas, cadastros de mapas especiais, reservas de mesas e inativação de salão para uma data, com integração com pagamento por cartão utilizando a Cielo. Utilizado Javascrip/jQuery com PHP.
 
 * Site institucional Calesita: 
 
