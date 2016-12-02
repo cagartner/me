@@ -17,6 +17,7 @@ _____
       * Wordpress (Avançado)
     * E-commerce:
       * Magento (Sênior)
+      * Woocommerce
 
 * Front-End:
   * HTML 5
