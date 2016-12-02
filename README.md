@@ -1,7 +1,7 @@
 # Carlos Augusto Gartner
 _____
 
-Full-stack Web Developer, com mais de 5 anos de experiências em diversos tipos de projetos WEB. Atualmente estou trabalhando como Frontend Engineer na Trezo Soluções Web principalmente com lojas da plataforma Magento.
+Full-stack Web Developer com mais de 5 anos de experiências em diversos tipos de projetos WEB. Atualmente estou trabalhando como Frontend Engineer na Trezo Soluções Web principalmente com lojas da plataforma Magento.
 
 ## Jogo Rápido
 _____
