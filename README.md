@@ -1,21 +1,24 @@
 # Carlos Augusto Gartner
 _____
+Senior Full-stack Web Developer, I became developer in 2011 when i started work at WE3 Online, I've experience with Development of Sites, Web Applications, Hot Sites, Facebook Apps and e-Commerces.
 
-Full-stack Web Developer desde 2011 com experiências em diversos tipos de projetos WEB. Atualmente estou trabalhando como Frontend Engineer na Trezo Soluções Web principalmente com lojas da plataforma Magento.
+Now I'm Frontend Engineer at Trezo, working with Magento e-Commerces in development of new stores, modules and e-commerce services.
 
-## Jogo Rápido
+I'm actually in love with Laravel and Worpress Woocommerce and Javascripts languages like AngularJS and VueJS
+
+## Skills
 _____
 
-* Linguagem Back-End:
+* Back-End:
   * PHP
     * Frameworks:
       * Zend Framework 2
-      * Laravel (Avançado)
+      * Laravel (Advanced)
       * Slim
     * CMS:
-      * Wordpress (Avançado)
+      * Wordpress (Advanced)
     * E-commerce:
-      * Magento (Sênior)
+      * Magento (Advanced)
       * Woocommerce
 
 * Front-End:
@@ -32,7 +35,7 @@ _____
   * Node
   * Bower
 
-* Versionamento:
+* Versionament:
  * GIT
  * SVN
 
@@ -41,42 +44,40 @@ _____
   * Illustrator
   * Adobe XD
 
-## Carreira
+## Career
 _____
 
-Minha carreira como desenvolvedor começou em 2011 quando entrei na WE3 Online, lá comecei com PHP estruturado, trabalhei um pouco com ASP e de início utilizando tabelas na diagramação do HTML.
-Aos poucos fui buscando novas tecnologias e utilizando Tableless nos projetos e tentando utilizar algum padrão de desenvolvimento no PHP. Trabalhei com diversos projetos e clientes nessa empresa, passando desde sites para pequenas empresas até intranets internacionais, desenvolvi e-commerces, hotsites e aplicativos para Facebook. Tive uma rápida passagem pela Bludata e após sair da Bludata trabalhei cerca de 8 meses como Freelancer e desde Maio de 2015 trabalho como Frontend Engineer Sênior na Trezo.
+I became developer in 2011 in WE3 Online Web Agency, working with structured PHP and table layout, with hard working and self-studing I started to implement Object Oriented Programing in PHP and tabless layout, In WE3 I worked with Business Sites, Facebook Applications and some E-commerces.
 
-## Projetos
+
+
+## Some Projects
 _____
 
-* Nova Loja Virtual Ana Tinelli: 
+* New Store Ana Tinelli: 
 
 Link: [http://anatinelli.com.br/](http://anatinelli.com.br/)
 
-Cliente tinha uma loja em Magento que estava dando muitos problemas de manutenção pois ele tinha necessidades básicas que um Magento é muito grande e complexo para isso.
-Foi desenvolvido uma nova loja em Woocommerce com dois idiomas (Português e Inglês) e com conversão de moeda, forma de pagamento Paypal para o idioma Inglês.
-Foi desenvolvido com um template criado pela Zaaz Digital com responsividade para smartphones.
+Built with Woocommerce.
 
 * Blumenews: 
 
 Link: [http://blumenews.com.br/](http://blumenews.com.br/)
 
-Ricardo Latorre, o fundador do portal me procurou, estava insatisfeito com o site antigo, foi feito algumas reuniões para criar o escopo do novo portal, foi criado um layout clean e para deixar o projeto mais personalizado, foi desenvolvido em Laravel.
+News portal build with Laravel
 
-* Sistema de reservas do BasementPub: 
+* Reservation system for BasementPub: 
 
 Link: [http://basementpub.com.br/reservas/](http://basementpub.com.br/reservas/)
 
-O sistema precisava de uma refatoração, desenvolvi do zero, totalmente administrável pelo admin, possui posicionamento de mesas, cadastros de mapas especiais, reservas de mesas e inativação de salão para uma data, com integração com pagamento por cartão utilizando a Cielo. Utilizado Javascrip/jQuery com PHP.
 
 
-## Um pouco mais sobre o Carlos
+## A little more about me
 _____
 
-Sou natural de Blumenau (Santa Catarina. Brasil), aprendo muito rápido, sempre busco novas tecnologias. Sou um nerd, gosto de filmes, seriados e animação japonesa.
+I'm born in Blumenau (Santa Catarina. Brazil), I learn very fast, always look for new technologies. I'm a nerd, I like movies, series and Japanese animation.
 
-## Interesou? Entre em contato!
+## Interested? Contact!
 
 * Facebook: [https://www.facebook.com/CarlosGartner](https://www.facebook.com/CarlosGartner)
 * Linkedin: [https://www.linkedin.com/in/carlosgartner](https://www.linkedin.com/in/carlosgartner)
