@@ -1,17 +1,16 @@
 # Carlos Augusto Gartner
 _____
 
-Full-stack Web Developer com mais de 5 anos de experiências em diversos tipos de projetos WEB. Atualmente estou trabalhando como Frontend Engineer na Trezo Soluções Web principalmente com lojas da plataforma Magento.
+Full-stack Web Developer desde 2011 com experiências em diversos tipos de projetos WEB. Atualmente estou trabalhando como Frontend Engineer na Trezo Soluções Web principalmente com lojas da plataforma Magento.
 
 ## Jogo Rápido
 _____
 
 * Linguagem Back-End:
-  * PHP (Sênior)
+  * PHP
     * Frameworks:
       * Zend Framework 2
       * Laravel (Avançado)
-      * CakePHP
       * Slim
     * CMS:
       * Wordpress (Avançado)
@@ -32,23 +31,23 @@ _____
   * Grunt
   * Node
   * Bower
-  * Sencha
 
 * Versionamento:
  * GIT
  * SVN
 
 * Design:
-  * Photoshop (conhecimento médio)
-  * Illustrator (conhecimento médio)
+  * Photoshop
+  * Illustrator
+  * Adobe XD
 
 ## Carreira
 _____
 
-Minha carreira como desenvolvedor começou em 2011 quando entrei na WE3 Online, lá comecei com PHP estruturado, trabalhei um pouco com ASP e de início utilizando tabelas na diagramação do HTML :P
+Minha carreira como desenvolvedor começou em 2011 quando entrei na WE3 Online, lá comecei com PHP estruturado, trabalhei um pouco com ASP e de início utilizando tabelas na diagramação do HTML.
 Aos poucos fui buscando novas tecnologias e utilizando Tableless nos projetos e tentando utilizar algum padrão de desenvolvimento no PHP. Trabalhei com diversos projetos e clientes nessa empresa, passando desde sites para pequenas empresas até intranets internacionais, desenvolvi e-commerces, hotsites e aplicativos para Facebook. Tive uma rápida passagem pela Bludata e após sair da Bludata trabalhei cerca de 8 meses como Freelancer e desde Maio de 2015 trabalho como Frontend Engineer Sênior na Trezo.
 
-## Principais Projetos
+## Projetos
 _____
 
 * Nova Loja Virtual Ana Tinelli: 
@@ -63,13 +62,7 @@ Foi desenvolvido com um template criado pela Zaaz Digital com responsividade par
 
 Link: [http://blumenews.com.br/](http://blumenews.com.br/)
 
-Ricardo Latorre, o fundador do protal me procurou, estava insatisfeito com o site antigo e seu desenvolvedor anterior, foi feito algumas reuniões para criar o escopo do novo portal, com o escopo desenvolvido criei um layout clean, para deixar o projeto mais personalizado, foi desenvolvido em Laravel.
-
-* Cartem Imóveis: 
-
-Link: [http://cartem.com.br/](http://cartem.com.br/)
-
-Depois que sai da Bludata comecei a fazer Freelas e comecei a desenvolver um projeto próprio e o resultado disso foi o Portal de Anúncio de imóveis chamado Cartem, utilizei HTML5, Less, Bootstrap para o Frontend e Laravel 4.1 para o backend, o site possui integração com Facebook e Google para facilitar o cadastro.
+Ricardo Latorre, o fundador do portal me procurou, estava insatisfeito com o site antigo, foi feito algumas reuniões para criar o escopo do novo portal, foi criado um layout clean e para deixar o projeto mais personalizado, foi desenvolvido em Laravel.
 
 * Sistema de reservas do BasementPub: 
 
@@ -77,17 +70,11 @@ Link: [http://basementpub.com.br/reservas/](http://basementpub.com.br/reservas/)
 
 O sistema precisava de uma refatoração, desenvolvi do zero, totalmente administrável pelo admin, possui posicionamento de mesas, cadastros de mapas especiais, reservas de mesas e inativação de salão para uma data, com integração com pagamento por cartão utilizando a Cielo. Utilizado Javascrip/jQuery com PHP.
 
-* Site institucional Calesita: 
-
-Link: [http://calesita.com.br/](http://calesita.com.br/)
-
-Desenvolvimento do Frontend do novo site da Calesita, utilizei Less, HTML5 e Bootstrap para ficar mais fácil a mudança de layout ou stylos do site, facilitando qualquer mudança visual, ajudei com algumas partes do Backend, nele foi utilizado Zend Framework 2.
-
 
 ## Um pouco mais sobre o Carlos
 _____
 
-Nasci em Blumenau, aprendo muito rápido, sempre busco novas tecnologias, curto Rock e suas vertentes, Soul, Poucos Raps e se toca um Flashback curto também. Sou um nerd, gosto de filmes, seriados e animês, desde pequeno meu apelido é Nino.
+Sou natural de Blumenau (Santa Catarina. Brasil), aprendo muito rápido, sempre busco novas tecnologias. Sou um nerd, gosto de filmes, seriados e animação japonesa.
 
 ## Interesou? Entre em contato!
 
