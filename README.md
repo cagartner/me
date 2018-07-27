@@ -1,13 +1,12 @@
 # Carlos Augusto Gartner
-_____
+
 Senior Full-stack Web Developer, I became developer in 2011 when i started work at WE3 Online, I've experience with Development of Sites, Web Applications, Hot Sites, Facebook Apps and e-Commerces.
 
-Now I'm Frontend Engineer at Trezo, working with Magento e-Commerces in development of new stores, modules and e-commerce services.
+Now I'm Frontend Engineer at Trezo, working with Magento e-Commerces in development of new stores, modules and e-commerce services, in 2018 I receive the Magento 2 Frontend Trainned.
 
 I'm actually in love with Laravel and Worpress Woocommerce and Javascripts languages like AngularJS and VueJS
 
 ## Skills
-_____
 
 * Back-End:
   * PHP
@@ -45,14 +44,21 @@ _____
   * Adobe XD
 
 ## Career
-_____
+
+### Init with WE3 Online (2011 - 2014)
 
 I became developer in 2011 in WE3 Online Web Agency, working with structured PHP and table layout, with hard working and self-studing I started to implement Object Oriented Programing in PHP and tabless layout, In WE3 I worked with Business Sites, Facebook Applications and some E-commerces.
 
+### Bludata (2014 - 2014)
 
+PHP development on car project application build with Laravel.
+
+
+### Trezo (2015 - 2017)
+
+Full-stack developer in Magento 1 and 2 E-commerces.
 
 ## Some Projects
-_____
 
 * New Store Ana Tinelli: 
 
@@ -73,7 +79,6 @@ Link: [http://basementpub.com.br/reservas/](http://basementpub.com.br/reservas/)
 
 
 ## A little more about me
-_____
 
 I'm born in Blumenau (Santa Catarina. Brazil), I learn very fast, always look for new technologies. I'm a nerd, I like movies, series and Japanese animation.
 
